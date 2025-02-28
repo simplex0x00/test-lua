@@ -1,2 +1,2 @@
-# ¡Ignorar esto! Es para ver como funciona GitHub
+# ¡Ignorad esto! Es para ver como funciona GitHub
 
